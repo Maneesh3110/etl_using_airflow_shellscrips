@@ -7,16 +7,6 @@ The lab demonstrates how to:
 - Extract user account data from `/etc/passwd`
 - Transform the data from colon-delimited to CSV format
 - Load the transformed data into a PostgreSQL table using `psql`
-
----
-
-## Prerequisites
-
-- Access to Skills Network Labs (or similar environment)
-- PostgreSQL server available via **PostgresSQL Database server** in Skills Network
-- Shell/terminal access
-- Basic knowledge of shell scripting
-
 ---
 
 ## Exercise: Build an ETL Script (`csv2db.sh`)
